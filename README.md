@@ -21,3 +21,7 @@ In chronological order - newest blog posts first
 * [Budget Edge Trial Hardware](https://www.voicegain.ai/post/budget-edge-trial-hardware)
 * [Competitive Advantage of Custom Models](https://www.voicegain.ai/post/competitive-advantage-of-custom-models)
 * [Voicegain Story](https://www.voicegain.ai/post/voicegain-story)
+
+### How-To Guides
+
+* [Deploy Voicegain to AWS](https://voicegain.github.io/platform/how-to/deploy-voicegain-into-aws.html)
