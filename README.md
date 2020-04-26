@@ -1,4 +1,4 @@
-## Welcome to Voicegain GitHub Pages
+## Welcome to GitHub Pages for Voicegain Speech-to-Text Platform
 
 * [Voicegain Platform](https://voicegain.github.io/platform/) - Enterprise Voicegain product
 * [Speech.Works](https://voicegain.github.io/speech-works/) - Low cost Web-based transcription
@@ -24,4 +24,4 @@ In chronological order - newest blog posts first
 
 ### How-To Guides
 
-* [Deploy Voicegain to AWS](https://voicegain.github.io/platform/how-to/deploy-voicegain-into-aws.html)
+* [Deploy Voicegain Speech-to-Text to AWS](https://voicegain.github.io/platform/how-to/deploy-voicegain-into-aws.html)
