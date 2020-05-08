@@ -10,6 +10,7 @@
 
 In chronological order - newest blog posts first
 
+* [Voicegain now deployable on your AWS Virtual Private Cloud](https://www.voicegain.ai/post/voicegain-now-deployable-on-your-aws-vpc)
 * [Key Differentiators](https://www.voicegain.ai/post/key-differentiators)
 * [How web developers can upgrade legacy IVRs into conversational bots?](https://www.voicegain.ai/post/how-web-developers-can-refactor-legacy-ivrs-into-conversational-bots)
 * ["Hello World" Example](https://www.voicegain.ai/post/hello-world-example)
