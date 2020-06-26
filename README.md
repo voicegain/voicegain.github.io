@@ -10,6 +10,11 @@
 
 In chronological order - newest blog posts first
 
+* [Speech-to-Text Accuracy Benchmark - June 2020 Results](https://www.voicegain.ai/post/speech-to-text-accuracy-benchmark-june-2020-results)
+* [Transcription for Live Streamed Event - an example](https://www.voicegain.ai/post/transcription-for-live-streamed-event-an-example)
+* [Voice enable your products with our Free Tier Offer](https://www.voicegain.ai/post/voice-enable-your-products-with-our-free-tier-offer)
+* [Why pay for speech recognition software when it is not listening?](https://www.voicegain.ai/post/why-pay-for-speech-recognition-when-it-is-not-listening)
+* [Video Demo of Edge Deployment](https://www.voicegain.ai/post/video-demo-of-edge-deployment)
 * [Voicegain now deployable on your AWS Virtual Private Cloud](https://www.voicegain.ai/post/voicegain-now-deployable-on-your-aws-vpc)
 * [Key Differentiators](https://www.voicegain.ai/post/key-differentiators)
 * [How web developers can upgrade legacy IVRs into conversational bots?](https://www.voicegain.ai/post/how-web-developers-can-refactor-legacy-ivrs-into-conversational-bots)
