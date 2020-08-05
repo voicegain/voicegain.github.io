@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages for Voicegain Speech-to-Text Platform
 
 * [Voicegain Platform](https://voicegain.github.io/platform/) - Enterprise Voicegain product
-* [Speech.Works](https://voicegain.github.io/speech-works/) - Low cost Web-based transcription
+* [Python SDK](https://voicegain.github.io/python-sdk/) - Python SDK for Voicegain Speech-to-Text 
 * [Transcript compare](https://voicegain.github.io/transcription-compare) - Open Source Project
+* [Speech.Works](https://voicegain.github.io/speech-works/) - Low cost Web-based transcription
 
 ## Learn more about Voicegain
 
