@@ -75,3 +75,8 @@ There are 3 key repositories (click the links to learn more):
 ### How-To Guides
 
 * [Deploy Voicegain Speech-to-Text to AWS](https://voicegain.github.io/platform/how-to/deploy-voicegain-into-aws.html)
+* GREG (Grammar recognition review and regression tool) videos:
+  * [Preparing files to upload experiment data to GREG](https://www.youtube.com/watch?v=um6lOE2q0rY)
+  * [Upload Experiment data to Voicegain GREG Tool](https://www.youtube.com/watch?v=KFylkRbPg2k)
+  * [Reviewing a data set in GREG](https://www.youtube.com/watch?v=YwYHCyBnLkk)
+  * [Running GREG Experiment](https://www.youtube.com/watch?v=IW03htgp2EQ)
