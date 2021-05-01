@@ -14,6 +14,13 @@ There are 3 key repositories (click the links to learn more):
 * [Speech-to-Text Accuracy Benchmark - June 2020 Results](https://www.voicegain.ai/post/speech-to-text-accuracy-benchmark-june-2020-results)
 
 #### Examples, Demos, Use Cases
+* [Access Voicegain ASR from FreeSWITCH using mod_unimrcp](https://www.voicegain.ai/post/voicegain-asr-from-freeswitch-using-mod_unimrcp)
+* [Easy Speech IVR for Outbound Calling using Voicegain and Twilio](https://www.voicegain.ai/post/easy-speech-ivr-for-outbound-calling-using-voicegain)
+* [Easy How-To: Build a Voicebot using Voicegain, RASA, and AWS Lambda](https://www.voicegain.ai/post/easy-how-to-build-a-voicebot-using-voicegain-rasa-and-aws-lambda)
+* [Two-Channel Support for Twilio Media Streams](https://www.voicegain.ai/post/two-channel-support-for-twilio-media-streams)
+* [Voicegain Speech Recognition for Voice Picking for Warehouses](https://www.voicegain.ai/post/voicegain-speech-recognition-for-voice-picking)
+* [Forking Media Streams from Contact Center Platforms for Realtime Agent Assist](https://www.voicegain.ai/post/real-time-streaming-options-for-telephony-uc-platforms)
+* [SIP INVITE Voicegain from Twilio, SignalWire CPaaS](https://www.voicegain.ai/post/sip-invite-voicegain-from-twilio-signalwire-cpaas)
 * [Transcription for Live Streamed Event - an example](https://www.voicegain.ai/post/transcription-for-live-streamed-event-an-example)
 * [Video Demo of Edge Deployment](https://www.voicegain.ai/post/video-demo-of-edge-deployment)
 * ["Hello World" Example](https://www.voicegain.ai/post/hello-world-example)
@@ -21,6 +28,13 @@ There are 3 key repositories (click the links to learn more):
 
 #### Feature Announcements
 
+* [Voicegain bietet automatische Spracherkennung in Deutsch](https://www.voicegain.ai/post/voicegain-bietet-automatische-spracherkennung-in-deutsch)
+* [Voicegain offers German Speech-to-Text](https://www.voicegain.ai/post/voicegain-offers-german-speech-to-text)
+* [Voicegain offers Spanish Speech-to-Text](https://www.voicegain.ai/post/voicegain-now-offers-spanish-speech-to-text)
+* [PII Text and Audio Redaction now available in Speech Analytics API](https://www.voicegain.ai/post/pii-text-and-audio-redaction-now-available-in-speech-analytics-api)
+* [Unique feature: RTP streaming support](https://www.voicegain.ai/post/unique-feature-rtp-streaming-support)
+* [Voicegain Speech Analytics API Generally Available](https://www.voicegain.ai/post/voicegain-speech-analytics-api-generally-available)
+* [Combining grammar-based and large vocabulary speech recognition](https://www.voicegain.ai/post/combining-grammar-based-and-large-vocabulary-speech-recognition)
 * [Voicegain now deployable on your AWS Virtual Private Cloud](https://www.voicegain.ai/post/voicegain-now-deployable-on-your-aws-vpc)
 
 #### Hardware Notes
@@ -29,6 +43,9 @@ There are 3 key repositories (click the links to learn more):
 * [Budget Edge Trial Hardware](https://www.voicegain.ai/post/budget-edge-trial-hardware)
 
 #### Other
+* [Implementing Real-time Agent Assist with Voicegain](https://www.voicegain.ai/post/implementing-real-time-agent-assist-with-voicegain)
+* [Modernize your VoiceXML IVR into conversational Voice Bots](https://www.voicegain.ai/post/modernize-your-ivr)
+* [Selecting a Speech-to-Text API for your SaaS app is not a slam dunk!](https://www.voicegain.ai/post/selecting-the-right-speech-to-text-api)
 * [Voice enable your products with our Free Tier Offer](https://www.voicegain.ai/post/voice-enable-your-products-with-our-free-tier-offer)
 * [Why pay for speech recognition software when it is not listening?](https://www.voicegain.ai/post/why-pay-for-speech-recognition-when-it-is-not-listening)
 * [Key Differentiators](https://www.voicegain.ai/post/key-differentiators)
