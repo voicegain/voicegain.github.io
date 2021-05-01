@@ -29,7 +29,7 @@ There are 3 key repositories (click the links to learn more):
 * [Live Transcription Example](https://www.voicegain.ai/post/live-transcription-example)
 * [Streaming audio to Voicegain for real-time Speech-to-Text/ASR](https://www.voicegain.ai/post/streaming-real-time-audio-to-voicegain-speech-to-text)
 * [Transcription for Live Streamed Event - an example](https://www.voicegain.ai/post/transcription-for-live-streamed-event-an-example)
-* [Video Demo of Edge Deployment](https://www.voicegain.ai/post/video-demo-of-edge-deployment) - start-to-finish video demo of deplying Voicegain Platform of a single Ubuntu server  
+* [Video Demo of Edge Deployment](https://www.voicegain.ai/post/video-demo-of-edge-deployment) - start-to-finish video demo of deploying Voicegain Platform on a single Ubuntu server  
 * ["Hello World" Example](https://www.voicegain.ai/post/hello-world-example)
 * [Real-Time Transcription for Deaf](https://www.voicegain.ai/post/real-time-transcription-for-deaf)
 
