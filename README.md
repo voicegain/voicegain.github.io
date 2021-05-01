@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages for Voicegain Speech-to-Text Platform
+## Voicegain GitHub Repositories
 
-* [Voicegain Platform](https://voicegain.github.io/platform/) - Enterprise Voicegain product
+There are 3 key ones:
+* [Voicegain Platform](https://voicegain.github.io/platform/) - Enterprise Voicegain platform - Repository has Release Notes and a lot of sample code illustrating the use of the Voicegain API
 * [Python SDK](https://voicegain.github.io/python-sdk/) - Python SDK for Voicegain Speech-to-Text 
-* [Transcript compare](https://voicegain.github.io/transcription-compare) - Open Source Project
-* [Speech.Works](https://voicegain.github.io/speech-works/) - Low cost Web-based transcription
+* [Transcript compare](https://voicegain.github.io/transcription-compare) - a python utility to do text comparison - computes WER and generates diff file showing the differences between the reference text and the other file (typicaly output from speech recognition)
 
 ## Learn more about Voicegain
 
