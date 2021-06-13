@@ -12,6 +12,7 @@ There are 3 key repositories (click the links to learn more):
 #### Speech Benchmarks, Accuracy
 
 * [Custom ASR with Acoustic Model Training - Two Case Studies](https://www.voicegain.ai/post/improved-accuracy-from-acoustic-model-training-two-case-studies)
+* [Speech-to-Text Accuracy Benchmark - June 2021](https://www.voicegain.ai/post/speech-to-text-benchmark-june-2021)
 * [Speech-to-Text Accuracy Benchmark Revisited](https://www.voicegain.ai/post/speech-to-text-accuracy-benchmark-revisited)
 * [Speech-to-Text Accuracy Benchmark - September 2020](https://www.voicegain.ai/post/speech-to-text-accuracy-benchmark-september-2020)
 * [Speech-to-Text Accuracy Benchmark - June 2020 Results](https://www.voicegain.ai/post/speech-to-text-accuracy-benchmark-june-2020-results)
